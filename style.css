@@ -88,13 +88,7 @@ header {
     overflow: hidden; /* Añadido para manejar el colapso del margen superior */
 }
 
-header h1 {
-    background: #27649d;
-    border-radius: 0.25em;
-    color: #FFF;
-    margin: 0;
-    padding: 0.5em 0;
-}
+
 
 header address {
     float: left;
