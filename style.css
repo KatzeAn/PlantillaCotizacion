@@ -52,13 +52,25 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   padding: 0.5in;
-  background-image: url('https://i.postimg.cc/SsVwqR8Q/fondo-Hicody.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
   box-shadow: 0 0 1in -0.25in rgba(0, 0, 0, 0.5);
 }
+
+.page {
+    width: 816px;
+    height: 1056px;
+    background-image: url('https://i.postimg.cc/SsVwqR8Q/fondo-Hicody.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    page-break-after: always;
+    padding: 1in;
+    box-sizing: border-box;
+}  
+
 .content {
     margin-top: 150px; /* Ajusta este valor al margen superior que necesites */
   }
