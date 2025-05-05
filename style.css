@@ -27,6 +27,12 @@ img.hover {
     background: #DEF;
     box-shadow: 0 0 1em 0.5em #DEF;
 }
+body {
+  background-image: url('https://drive.google.com/file/d/15k79kh4M8XQbkY7pCQ3xdqGtUkeyiccd/view?usp=sharing');
+  background-repeat: no-repeat;
+  background-position: top right; /* o center, top left, etc. */
+  background-size: 100% 100%; /* ajusta el tamaño deseado */
+}
 
 span[contenteditable] {
     display: inline-block;
