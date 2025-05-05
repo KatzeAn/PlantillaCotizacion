@@ -28,12 +28,13 @@ img.hover {
     box-shadow: 0 0 1em 0.5em #DEF;
 }
 body {
-  background-image: url('https://drive.google.com/uc?id=15k79kh4M8XQbkY7pCQ3xdqGtUkeyiccd');
-  background-repeat: no-repeat;
-  background-position: top right; /* o center, top left, etc. */
-  background-size: 100% 100%; /* ajusta el tamaño deseado */
+  margin: 0;
+  padding: 0;
+  background-image: url('https://i.postimg.cc/SsVwqR8Q/fondo-Hicody.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
 }
-
 span[contenteditable] {
     display: inline-block;
 }
